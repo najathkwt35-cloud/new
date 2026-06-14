@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/rinas-al-b94b793b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="r74077824@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Rinas-Al&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
