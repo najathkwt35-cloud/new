@@ -186,7 +186,7 @@ cicd:         "GitHub Actions workflows, ArgoCD"
 | Platform | Link |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/rinas-al-b94b793b4) |
-| 📧 Email | YOUR-EMAIL@gmail.com |
+| 📧 Email | r74077824@gmail.com |
 | 🐙 GitHub | [github.com/Rinas-Al](https://github.com/najathkwt35-cloud) |
 | 📍 Location | Colombo, Sri Lanka · Open to remote roles globally |
 
